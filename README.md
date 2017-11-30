@@ -179,3 +179,4 @@ shiro.successUrl=/users/loginSuccess
 
 
 
+# sso-shiro-cas
